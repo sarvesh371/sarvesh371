@@ -4,13 +4,13 @@
 
 <br />
 
-I'm a self-taught passionate Software developer from India 🇮🇳
+I'm a self-taught passionate Software Engineer from India 🇮🇳
 
 **About me**
 
 - 💼 Lead SDET at [Airstack](https://airstack.xyz/)
 
-- ❤️ I love writing Backend, Smart Contracts and applications
+- ❤️ I love writing Automation, Backend, Smart Contracts and applications
 
 - 💬 Ask me about anything [here](https://github.com/sarvesh371/sarvesh371/issues)
 
