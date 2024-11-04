@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sarvesh371.github.io">Hello, I'm Sarvesh. I do open source!</a>
+ Hello, I'm Sarvesh. I do open source!</a>
 </p>
 
 <br />
