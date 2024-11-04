@@ -25,3 +25,9 @@ I'm a self-taught passionate Software Engineer from India 🇮🇳
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvesh371&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sarvesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh371&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/sarveshgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarvesh-singh-0b17a8137/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@automationunboxed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
