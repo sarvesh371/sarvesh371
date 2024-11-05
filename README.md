@@ -35,12 +35,12 @@ I'm a self-taught passionate Software Engineer from India 🇮🇳
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/sarveshgi" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" style="filter: invert(100%);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" style="filter: invert(1);" />
   </a>
   <a href="https://www.linkedin.com/in/sarvesh-singh-0b17a8137/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(100%);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(1);" />
   </a>
   <a href="https://www.youtube.com/@automationunboxed" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" style="filter: invert(100%);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" style="filter: invert(1);" />
   </a>
 </p>
