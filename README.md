@@ -21,11 +21,6 @@ I'm a self-taught passionate Software Engineer from India 🇮🇳
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/go/go.png"></code>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sarvesh371&column=10&theme=gruvbox&no-frame=true"/>
-</a>
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvesh371&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sarvesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh371&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
