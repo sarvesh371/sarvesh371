@@ -22,8 +22,7 @@ I'm a self-taught passionate Software Engineer from India 🇮🇳
 <code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/go/go.png"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh371&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh371&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
